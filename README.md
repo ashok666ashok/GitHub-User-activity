@@ -5,7 +5,7 @@ CLI fetches → displays GitHub user activity.
 ## Install
 
 ```bash
-git clone <repo_url>
+git clone https://github.com/ashok666ashok/GitHub-User-activity
 cd <repo_dir>
 npm install
 npm link
