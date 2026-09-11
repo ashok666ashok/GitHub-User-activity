@@ -10,5 +10,8 @@ cd <repo_dir>
 npm install
 npm link
 ```
+##<ins>command</ins>
+github-activity <username>
+
 get this project idea from https://roadmap.sh 
 projectLink -> https://roadmap.sh/projects/github-user-activity
