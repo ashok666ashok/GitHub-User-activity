@@ -10,6 +10,12 @@ cd <repo_dir>
 npm install
 npm link
 ```
+OR 
+```bash
+git clone https://github.com/ashok666ashok/GitHub-User-activity
+cd <repo_dir>
+node main.js github-activity <github_username>
+```
 ## cli-command
 github-activity _username_
 
