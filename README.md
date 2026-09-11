@@ -11,7 +11,7 @@ npm install
 npm link
 ```
 ## comamand
-github-activity _ username> _
+github-activity _username_
 
 get this project idea from https://roadmap.sh 
 projectLink -> https://roadmap.sh/projects/github-user-activity
