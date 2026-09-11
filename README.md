@@ -10,7 +10,7 @@ cd <repo_dir>
 npm install
 npm link
 ```
-## comamand
+## cli-command
 github-activity _username_
 
 get this project idea from https://roadmap.sh 
